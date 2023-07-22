@@ -1,7 +1,9 @@
-# pickmymeal
-<h3 align = "center">
-  Meal Planner for Students in MMU Compound
-</h3>
-<p>
-  Using Pygame Python language, the features in this app allows students to pick their designated food according to their budget and the nutrition of their meals needed.
-</p>
+#  Meal Planner for MMU Students
+  Our application allow students in Multimedia University, Malaysia to plan their daily meals in the school compound easily. 
+
+
+## Description
+  Students are able to choose their meals from all restaurants in the school according to their desired budget and food nutrition without the hustle of searching manually online. 
+
+## Key Features
+
