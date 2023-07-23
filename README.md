@@ -28,5 +28,7 @@ Main Map                    |  Restaurant Page               | Food Basket
 
   * Food Basket
     - This page displays the total nutrition level, calorie intake and total spendings of the user's meal.
+   
+  This project was jointly created with my nice human friends.
 
 
